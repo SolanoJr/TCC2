@@ -1,4 +1,24 @@
-div{
-    color: brown;
-    font-size: 100px;
+#cima{
+    display: flex;
+    padding: 50px;
+    border: 1px solid #000;
+}
+
+#esquerda{
+
+    border: 1px solid #000;
+    align-self: baseline;
+
+}
+
+h1 {
+	text-align: center;
+	margin: 20px 0 0 0;
+	font-size: 1.25em;
+	font-weight: normal;
+}
+
+body {
+	font-family: monospace;
+	color: #333;
 }
